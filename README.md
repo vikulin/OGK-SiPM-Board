@@ -26,6 +26,16 @@ The PCB integrates the recommended SiPM biasing filter and optional temperature 
 
 ---
 
+## Order the PCB or PCB + Assembly
+
+You can order the **OGK SiPM Board** PCB or a fully assembled board directly from PCBWay using the link below:
+
+👉 [Order PCB or PCB + Assembly from PCBWay](https://www.pcbway.com/project/shareproject/OpenGammaKit_SiPM_Board_a366bfd7.html)
+
+This helps support the project and ensures high-quality manufacturing.
+
+---
+
 ## 📷 3D render previews of the boards
 
 <p align="center">
